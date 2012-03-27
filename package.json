@@ -1,0 +1,10 @@
+{
+    "name": "modules"
+  , "description": "sample usage of request, underscore, and async modules"
+  , "version": "1.0.0"
+  , "dependencies": {
+        "async": "0.1.15"
+      , "request": "2.1.1"
+      , "underscore": "1.2.1"
+    }
+}
